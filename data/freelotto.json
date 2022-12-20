@@ -1,0 +1,79 @@
+{
+	"items": [
+		{
+			"id": "freelotto-1",
+			"name": "Win 5",
+			"image": "/images/freelotto-5.png",
+			"unit": "€",
+			"amount": 10000,
+			"link": "/lotteries/freelotto?id=1",
+			"PricePerLine": 0,
+			"NumberOfMainNumbers": 90,
+      "AmountOfMainNumbersToMatch": 6,
+			"NumberOfExtraNumbers": 0,
+      "AmountOfExtraNumbersToMatch": 0,
+			"MinLines": 1,
+			"MaxLines": 5
+		},
+		{
+			"id": "freelotto-2",
+			"name": "Win 20",
+			"image": "/images/freelotto-20.png",
+			"unit": "€",
+			"amount": 10000,
+			"link": "/lotteries/freelotto?id=2",
+			"PricePerLine": 0,
+			"NumberOfMainNumbers": 90,
+      "AmountOfMainNumbersToMatch": 6,
+			"NumberOfExtraNumbers": 0,
+      "AmountOfExtraNumbersToMatch": 0,
+			"MinLines": 1,
+			"MaxLines": 5
+		},
+		{
+			"id": "freelotto-3",
+			"name": "Win A Luxury Car",
+			"image": "/images/freelotto-car.png",
+			"unit": "€",
+			"amount": 10000,
+			"link": "/lotteries/freelotto?id=3",
+			"PricePerLine": 0,
+			"NumberOfMainNumbers": 90,
+      "AmountOfMainNumbersToMatch": 6,
+			"NumberOfExtraNumbers": 0,
+      "AmountOfExtraNumbersToMatch": 0,
+			"MinLines": 1,
+			"MaxLines": 5
+		},
+		{
+			"id": "freelotto-4",
+			"name": "Win 10,000",
+			"image": "/images/freelotto-10k.png",
+			"unit": "€",
+			"amount": 10000,
+			"link": "/lotteries/freelotto?id=4",
+			"PricePerLine": 0,
+			"NumberOfMainNumbers": 90,
+      "AmountOfMainNumbersToMatch": 6,
+			"NumberOfExtraNumbers": 0,
+      "AmountOfExtraNumbersToMatch": 0,
+			"MinLines": 1,
+			"MaxLines": 5
+		},
+		{
+			"id": "freelotto-5",
+			"name": "Win 250,000",
+			"image": "/images/freelotto-250k.png",
+			"unit": "€",
+			"amount": 1000000,
+			"link": "/lotteries/freelotto?id=5",
+			"PricePerLine": 0,
+			"NumberOfMainNumbers": 90,
+      "AmountOfMainNumbersToMatch": 6,
+			"NumberOfExtraNumbers": 0,
+      "AmountOfExtraNumbersToMatch": 0,
+			"MinLines": 1,
+			"MaxLines": 5
+		}
+	]
+}

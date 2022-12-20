@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bitcoin News</title>
+	<atom:link href="https://news.bitcoin.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://news.bitcoin.com</link>
+	<description>Daily Bitcoin News</description>
+	<lastBuildDate>Mon, 23 Aug 2021 05:10:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.4</generator>
+	<item>
+		<title>Paypal Launches Cryptocurrency Services in the UK</title>
+		<link>https://news.bitcoin.com/paypal-launches-cryptocurrency-services-in-uk/</link>
+		
+		<dc:creator><![CDATA[Sergio Goschenko]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2021 08:30:25 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Investing]]></category>
+		<category><![CDATA[payment]]></category>
+		<category><![CDATA[Paypal]]></category>
+		<category><![CDATA[paypal. uk. services]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481610</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_1954777390.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="paypal" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Paypal, the payments processor giant, informed it would be launching its cryptocurrency services in the U.K this week. The cryptocurrency service, which was launched in the U.S. in October 2020, will allow U.K. citizens to purchase cryptocurrencies and hold them in their Paypal accounts. This will be Paypal&#x2019;s first foray into offering cryptocurrency services outside [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_1954777390.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="paypal" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>Paypal, the payments processor giant, informed it would be launching its cryptocurrency services in the U.K this week. The cryptocurrency service, which was launched in the U.S. in October 2020, will allow U.K. citizens to purchase cryptocurrencies and hold them in their Paypal accounts. This will be Paypal&#x2019;s first foray into offering cryptocurrency services outside the U.S.</strong></p>&#13;
+<h2 style="text-align: center;">Paypal Expands Crypto Business to U.K.</h2>&#13;
+<p>Paypal, the multimillion-dollar payment processor, announced the expansion of its cryptocurrency-based services to the U.K., starting this week. According to reports, the offer will be similar to the one <a href="https://news.bitcoin.com/payments-giant-paypal-says-its-customers-can-now-buy-and-sell-bitcoin/" target="_blank" rel="noopener">available</a> in the U.S. Paypal will allow U.K. citizens to purchase four cryptocurrencies from its platform: bitcoin, bitcoin cash, ethereum, and litecoin.</p>&#13;
+<p>Paypal expects the demand for the service to be high, similar to the response so far from its U.S. crypto initiative. Jose Fernandez da Ponte, PayPal&#x2019;s general manager for blockchain, crypto, and digital currencies, stated:</p>&#13;
+<blockquote>&#13;
+<p>It has been doing really well in the U.S., we expect it&#x2019;s going to do well in the U.K.</p>&#13;
+</blockquote>&#13;
+<p>Paypal&#x2019;s service will keep using Paxos as one of their key partners to offer this functionality. Paxos is a regulated cryptocurrency company based in New York. According to <a href="https://www.cnbc.com/2021/08/22/paypal-crypto-service-launches-in-the-uk.html" target="_blank" rel="noopener">CNBC</a>, the company has already contacted regulators in the U.K. regarding this service, to ensure compliance with current laws.</p>&#13;
+<!-- growjs zone placement 31 --> <ins> <ins class="growjs-placement"></ins> <script type="text/javascript"> if (!window.GrowJs) { (function () { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = 'https://bitcoinads.growadvertising.com/adserve/app'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); } </script> <script type="text/javascript"> var GrowJs = GrowJs || {}; GrowJs.ads = GrowJs.ads || []; GrowJs.ads.push({ node: document.currentScript.parentElement, handler: function (node) { var banner = GrowJs.createBanner(node, 31, [300, 250], null, []); GrowJs.showBanner(banner.index); } }); </script> </ins> <!-- end of growjs zone placement --> &#13;
+<h2 style="text-align: center;">Crypto Demand Going Strong</h2>&#13;
+<p>Paypal&#x2019;s cryptocurrency service is enjoying big success in the U.S. In fact, Paypal&#x2019;s CEO Dan Schulman <a href="https://news.bitcoin.com/paypal-ceo-demand-for-cryptocurrencies-multiple-fold-initial-expectations/" target="_blank" rel="noopener">declared</a> the demand for cryptocurrency products has been &#x201C;multiple-fold&#x201D; of his company&#x2019;s initial expectations. This is because the company puts growing importance on easing the way of customers into crypto. Da Ponte stated:</p>&#13;
+<blockquote>&#13;
+<p>The tokens and coins have been around for a while but you had to be a relatively sophisticated user to be able to access that. Having that on a platform like ours makes a really good entry point.</p>&#13;
+</blockquote>&#13;
+<p>But Paypal didn&#x2019;t just limit itself to offering investment services for its customers. The company is also shifting its service strategy to offer cryptocurrency payment processing. On March 30, the company <a href="https://news.bitcoin.com/paypal-cryptocurrency-payments-millions-of-stores-checkout-with-crypto-launch/" target="_blank" rel="noopener">announced</a> it had launched a new product called &#x201C;Checkout With Crypto,&#x201D; which enables crypto payments at millions of online stores.</p>&#13;
+<p>However, Paypal still functions as a closed ecosystem, not allowing their customers to withdraw purchased cryptocurrencies to third-party wallets, something that has earned them criticism from crypto users.</p>&#13;
+<p><em><strong>What do you think about Paypal expanding its crypto business to the U.K.? Tell us in the comments section below.</strong></em></p>&#13;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_1954777390.jpg</url><width>760</width><height>428</height></post-thumbnail><barker_title><![CDATA[#Paypal, the multimillion-dollar payment processor, announced the expansion of its #cryptocurrency-based services to the U.K. starting this week.]]></barker_title><late_barker_title><![CDATA[#Paypal will allow U.K. citizens to purchase four cryptocurrencies from its platform: #bitcoin, bitcoin cash, #ethereum, and #litecoin.]]></late_barker_title>	</item>
+		<item>
+		<title>Swedish Government to Return 33 Bitcoin to Drug Dealer in Landmark Case</title>
+		<link>https://news.bitcoin.com/swedish-government-to-return-33-bitcoin-to-drug-dealer-in-landmark-case/</link>
+		
+		<dc:creator><![CDATA[Sergio Goschenko]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2021 06:30:08 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Dollars]]></category>
+		<category><![CDATA[drug dealer]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[prosecution]]></category>
+		<category><![CDATA[Sweden]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481741</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_2012323871.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="swedish" loading="lazy" style="float:left; margin:0 15px 15px 0;" />The Swedish government must return 33 bitcoin, worth more than $1.5 million, to a drug dealer in the first cryptocurrency seizure case in the country. The prosecutor of the case, who achieved the seizure of the cryptocurrency due to its illegal origin, recorded the seized amount in dollars, and due to price fluctuations, the government [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_2012323871.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="swedish" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>The Swedish government must return 33 bitcoin, worth more than $1.5 million, to a drug dealer in the first cryptocurrency seizure case in the country. The prosecutor of the case, who achieved the seizure of the cryptocurrency due to its illegal origin, recorded the seized amount in dollars, and due to price fluctuations, the government must reimburse the mentioned amount. The case might have repercussions in future cases.</strong></p>&#13;
+<h2 style="text-align: center;">Swedish Government to Reimburse 33 Bitcoin to Drug Dealer</h2>&#13;
+<p>The Swedish government must <a href="https://markets.businessinsider.com/news/currencies/sweden-bitcoin-drug-dealer-value-grew-crime-illegal-crypto-2021-8" target="_blank" rel="noopener">reimburse</a> 33 bitcoin, worth more than $1.5 million dollars, to a drug dealer in a case that might have repercussions for similar future cases. The drug dealer was arrested two years ago by the Swedish Enforcement Authority, and 36 bitcoin were <a href="https://news.bitcoin.com/israel-begins-seizure-of-bitcoin-donations-collected-by-hamas/" target="_blank" rel="noopener">seized</a> from him at that time. Tove Kullberg, the prosecutor that took the case, argued that the whole bitcoin stash had a criminal origin, and managed to seize the crypto.</p>&#13;
+<p>However, Kullberg used the number of dollars in his case instead of the amount of cryptocurrency. Since then, the price of the bitcoin has grown enormously, causing the value of the bitcoin seized to keep growing, while the recorded amount seized stayed the same. Only 3 bitcoin were sold to pay for the amount seized.</p>&#13;
+<!-- growjs zone placement 31 --> <ins> <ins class="growjs-placement"></ins> <script type="text/javascript"> if (!window.GrowJs) { (function () { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = 'https://bitcoinads.growadvertising.com/adserve/app'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); } </script> <script type="text/javascript"> var GrowJs = GrowJs || {}; GrowJs.ads = GrowJs.ads || []; GrowJs.ads.push({ node: document.currentScript.parentElement, handler: function (node) { var banner = GrowJs.createBanner(node, 31, [300, 250], null, []); GrowJs.showBanner(banner.index); } }); </script> </ins> <!-- end of growjs zone placement --> &#13;
+<h2 style="text-align: center;">Big Mistake</h2>&#13;
+<p>This consideration has led the Swedish government to pay the difference to the drug dealer now that he has been released, even knowing the cryptocurrency was linked with illegal origins. Kullberg stated:</p>&#13;
+<blockquote>&#13;
+<p>The lesson to be learned from this is to keep the value in bitcoin, that the profit from the crime should be 36 bitcoin, regardless of what value bitcoin has at the time. It has led to consequences I was not able to foresee at the time.</p>&#13;
+</blockquote>&#13;
+<p>The prosecutor qualified the event as &#x201C;unfortunate&#x201D; and it shows the consequence of a lack of expertise when dealing with cryptocurrencies linked to criminal acts. Further, this case could act as jurisprudence for future cases, a strange turn of events for Swedish law.</p>&#13;
+<p>Kullberg acknowledged his mistake, is now supporting investing in education for the prosecution on cryptocurrency matters. About this, he stated:</p>&#13;
+<blockquote>&#13;
+<p>I think we should probably invest in an internal education in the authority, as cryptocurrency will be a factor we&#x2019;ll be dealing with to a much greater extent than we are today. The more we increase the level of knowledge within the organization, the fewer mistakes we will make.</p>&#13;
+</blockquote>&#13;
+<p><em><strong>What do you think about the Swedish government bitcoin reimbursement to a drug dealer? Tell us in the comment section below.</strong></em></p>&#13;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_2012323871.jpg</url><width>760</width><height>428</height></post-thumbnail><barker_title><![CDATA[The Swedish government must reimburse 33 #bitcoin, worth more than $1.5 million dollars, to a drug dealer in a case that might have repercussions for similar future cases.]]></barker_title><late_barker_title><![CDATA[The prosecutor qualified the event as "unfortunate" and it shows the consequence of a lack of expertise when dealing with #cryptocurrency linked to criminal acts.]]></late_barker_title>	</item>
+		<item>
+		<title>A DEX P2P Options Platform for Everyone: delta.theta</title>
+		<link>https://news.bitcoin.com/a-dex-p2p-options-platform-for-everyone-delta-theta/</link>
+		
+		<dc:creator><![CDATA[Bitcoin.com PR]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2021 05:00:05 +0000</pubDate>
+				<category><![CDATA[Press release]]></category>
+		<category><![CDATA[delta.theta]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481648&#038;preview=true&#038;preview_id=481648</guid>
+
+					<description><![CDATA[<img width="696" height="390" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/article_main.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />PRESS RELEASE. Delta.theta &#x2013; a DEX options platform &#x2013; has been growing strongly since its launch in May: raising nearly $2 million, gathering key partnerships, and launching ETH and BSC mainnets are just a few examples of what the team achieved in less than two months. &#13; &#13; Advanced strategies that are available for farmers [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="390" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/article_main.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p>PRESS RELEASE. <a href="https://deltatheta.tech/"><span style="font-weight: 400;">Delta.theta</span></a><span style="font-weight: 400;"> &#x2013; a DEX options platform &#x2013; has been growing strongly since its launch in May: raising nearly $2 million, gathering key partnerships, and launching <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> and BSC mainnets are just a few examples of what the team achieved in less than two months. </span>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">Advanced strategies that are available for farmers and traders who can finally work with liquidity directly on a fully functional platform on both Ethereum and BSC chains. </span>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">The project brings derivatives into the cryptocurrency realm and successfully launched a DEX P2P options platform. Options in the crypto market are the so-called underdogs and aren&#x2019;t that popular with volumes of less than 1% comparing to the total volume traded. The only viable centralized competitor is Deribit, which is covering 80% to 90% of the whole options market volume in crypto. </span>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">The other side of the situation is DEX approach to options. The incompatibility between AMMs/LPs and options makes it difficult to come up with a platform that meets market needs. Delta.theta is here to provide every user with direct access to an order book and the liquidity of all other participants. This approach allows users to create new options markets for volatile and risky assets versus a stable coin &#x2013; an impossible actions for LP based options.</span>&#13;<br />
+&#13;<br />
+<strong>Future Plans</strong>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">Within the first month since the first mainnet launch, delta.theta DEX options platform is operational on BSC and Ethereum mainnets. Since the release, the team managed to incorporate two premium asset listings in just a few weeks: $DAO and $HAPI. </span>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">Both listings are just the beginning of a market expansion. The team welcomes any project teams on <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a>, BSC, and Polygon networks for a free listing on delta.theta options DEX. </span>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">Yep, you heard it correctly! delta.theta is launching Polygon terminal in the coming days &#x2013; on 23rd of August. This will allow even more users to utilize the undoubtable benefits of options compared to spot trading. &#x201C;We&#x2019;ve decided to expand to Polygon because the network seems to be developing at a skyrocketing speed. The mission of delta.theta is, and always will be, to provide direct and undoubted access to market liquidity for every user&#x2026; Also, we&#x2019;re in close touch with the Polygon team, ready to present even more opportunities and benefits to the Polygon network in general!&#x201D; &#x2013; said Danil Zatologin, CEO of delta.theta.</span>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">Finally, delta.theta platform v2 release, which is expected in September 2021, will grant access to wrapped assets options for any asset type. Right from wallets and without any custody, people would be able to trade options on the most popular stocks, fossil fuels, indices, and other asset types.</span>&#13;<br />
+&#13;<br />
+<strong>Innovative features you don&#x2019;t want to miss out</strong>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">Two delta.theta terminals:</span>&#13;
+</p>
+<ul>&#13;</p>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">LITE terminal: Specially designed for farmers. Easy to understand and user-friendly interface for casual users;</span></li>
+<p>&#13;</p>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">PRO terminal: Simple and classic options platform for traders, with the familiar interface and all the features of DEX platform. </span></li>
+<p>&#13;
+</ul>
+<p>&#13;<br />
+<span style="font-weight: 400;">Successful projects have shown that the key to creating a prosperous platform is to integrate a native token with a strong product. Delta.theta&#x2019;s token, DLTA, has an essential utility on the platform as it lavishes users with a number of benefits as well as extended platform functions. The project itself is an ecosystem, which solves two of the market&#x2019;s biggest problems, incorporates the greatest benefits of a centralized exchange within a decentralized platform that is supported by the DLTA token. This token is designed to be the only native token on the platform, which has been created for people without the involvement of Venture Capital funds in the initial fundraising.</span>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">The ingenious LIP (Liquidity Incentivisation Program) gives users even more opportunities to manage their assets effectively. LIP is a cross-protocol solution to re-purpose the coverage funds to Venus or Compound and get additional income from lending, giving even more room for the execution of advanced strategies.</span>&#13;<br />
+&#13;<br />
+<span style="font-weight: 400;">The asset listing is remarkably fast &#x2013; the architecture of the platform allows to list new pairs in a matter of 1 hour. </span>&#13;<br />
+&#13;<br />
+&#xA0;&#13;<br />
+&#13;</p>
+<hr>
+<p>&#13;<br />
+&#13;<br />
+<small><i>This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.</i></small></p>
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/article_main.jpg</url><width>760</width><height>425</height></post-thumbnail><barker_title><![CDATA[A DEX P2P Options Platform for Everyone: delta.theta]]></barker_title>	</item>
+		<item>
+		<title>Opensea&#8217;s Record-Breaking Monthly NFT Volume Captures More Than $1.5 Billion</title>
+		<link>https://news.bitcoin.com/openseas-record-breaking-monthly-nft-volume-captures-more-than-1-5-billion/</link>
+		
+		<dc:creator><![CDATA[Jamie Redman]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2021 04:30:37 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[$1.564 billion]]></category>
+		<category><![CDATA[30 day volume]]></category>
+		<category><![CDATA[Art Blocks]]></category>
+		<category><![CDATA[axie infinity]]></category>
+		<category><![CDATA[blockchain technology]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[cryptopunks]]></category>
+		<category><![CDATA[Enjin]]></category>
+		<category><![CDATA[Makersplace]]></category>
+		<category><![CDATA[Mintable]]></category>
+		<category><![CDATA[nft]]></category>
+		<category><![CDATA[NFT trade Volume]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[Non-fungible Token]]></category>
+		<category><![CDATA[Opensea]]></category>
+		<category><![CDATA[Opensea NFT market]]></category>
+		<category><![CDATA[Opensea NFT marketplace]]></category>
+		<category><![CDATA[Opensea NFTs]]></category>
+		<category><![CDATA[Rarible]]></category>
+		<category><![CDATA[record breaking volume]]></category>
+		<category><![CDATA[Trade Volumes]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481705</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/opensea.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Opensea&#039;s Record-Breaking Monthly NFT Volume Captures More Than $1.5 Billion" loading="lazy" style="float:left; margin:0 15px 15px 0;" />30-day statistics show the non-fungible token (NFT) marketplace Opensea has captured $1.564 billion in volume, according to data recorded by dappradar.com. Opensea&#x2019;s trade volume has increased by 542% over the last month and all-time statistics indicate that the NFT market has seen $2.423 billion in trade volume.&#13; Opensea&#x2019;s Monthly Trade Volume Skyrockets &#13; Non-fungible token [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/opensea.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Opensea&#039;s Record-Breaking Monthly NFT Volume Captures More Than $1.5 Billion" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>30-day statistics show the non-fungible token (NFT) marketplace Opensea has captured $1.564 billion in volume, according to data recorded by dappradar.com. Opensea&#x2019;s trade volume has increased by 542% over the last month and all-time statistics indicate that the NFT market has seen $2.423 billion in trade volume.</strong>&#13;</p>
+<h2>Opensea&#x2019;s Monthly Trade Volume Skyrockets</h2>
+<p>&#13;<br />
+Non-fungible token (NFT) sales have <a href="https://news.bitcoin.com/these-digital-images-are-worth-more-than-most-homes-over-220-million-worth-of-nfts-sold-last-week/">skyrocketed</a> during the last 12 months and these digital images, worth millions of dollars, are swapped every day. According to <a href="https://dappradar.com/nft/marketplaces">statistics</a>, the largest NFT marketplace is <a href="https://opensea.io">Opensea</a> and a lot of NFTs are bought and sold on the platform.&#13;<br />
+&#13;<br />
+<figure id="attachment_481718" aria-describedby="caption-attachment-481718" style="width: 1280px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-481718 size-full" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/dapppradat.jpg" alt="" width="1280" height="500"><figcaption id="caption-attachment-481718" class="wp-caption-text">Top six NFT projects in terms of 30-day trade volume via dappradar.com&#x2019;s data.</figcaption></figure>&#13;<br />
+&#13;<br />
+Dune Analytics <a href="https://dune.xyz/rchen8/opensea">data</a> indicates that as of Sunday, August 22, 2021, there are more than 245K unique Ethereum addresses that have leveraged Opensea at least once. The same Opensea dashboard data indicates that as of August 1, 2021, 965,477 NFTs were sold. Dappradar metrics show in 30 days, there were 149,907 traders using the Opensea market.&#13;<br />
+&#13;<br />
+Last month&#x2019;s data in terms of NFT trade volume shows that Opensea broke a record by capturing more than $1 billion in 30-day trade volume. In fact, at the time of writing, <a href="https://dappradar.com/nft/marketplaces">dappradar.com data</a> shows that Opensea saw approximately $1.564 billion in 30-day volume.&#13;<br />
+&#13;<br />
+<!-- growjs zone placement 31 --> <ins> <ins class="growjs-placement"></ins> <script type="text/javascript"> if (!window.GrowJs) { (function () { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = 'https://bitcoinads.growadvertising.com/adserve/app'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); } </script> <script type="text/javascript"> var GrowJs = GrowJs || {}; GrowJs.ads = GrowJs.ads || []; GrowJs.ads.push({ node: document.currentScript.parentElement, handler: function (node) { var banner = GrowJs.createBanner(node, 31, [300, 250], null, []); GrowJs.showBanner(banner.index); } }); </script> </ins> <!-- end of growjs zone placement --> &#13;</p>
+<h2>Axie Infinity, Cryptopunks, NBA Top Shot, Rarible Follow Opensea&#x2019;s Trade Volume Lead</h2>
+<p>&#13;<br />
+Opensea&#x2019;s competitors, in terms of 30-day trade volume, include Axie Infinity ($870M), Cryptopunks ($340M), NBA Top Shot ($23.56M), Rarible ($18.68M), and Sorare ($17.54M). While all-time metrics show that Opensea has processed $2.423 billion in trade volume, Axie Infinity recently <a href="https://news.bitcoin.com/axie-infinity-hits-1-million-daily-active-players-first-nft-project-to-hit-1b-all-time-trade-volume/">crossed the billion-dollar region</a>.&#13;<br />
+&#13;<br />
+Today, all-time statistics (ATS) indicate that Axie Infinity has seen $1.545 billion in NFT trade volume. Below Axie Infinity&#x2019;s ATS are NFT projects like Cryptopunks ($742M), NBA Top Shot ($659M), and Rarible ($191M) respectively.&#13;<br />
+&#13;<br />
+Opensea&#x2019;s growth has been massive in 2021 and the creators of the marketplace recently <a href="https://news.bitcoin.com/nft-marketplace-opensea-raises-100-million-firm-becomes-a-blockchain-unicorn/">raised $100 million</a> in a Series B funding round. The funding has made it so Opensea is now a unicorn blockchain firm in terms of valuation.&#13;<br />
+&#13;<br />
+Opensea, however, is not the only NFT marketplace raising millions as Makersplace recently <a href="https://news.bitcoin.com/slew-of-venture-funds-eminem-paul-rosenberg-inject-30-million-into-nft-platform-makersplace/">raised</a> $30 million, NFT market Rarible <a href="https://news.bitcoin.com/nft-marketplace-rarible-raises-14-million-plans-launch-flow-blockchain/">raised over $14 million</a>, Enjin <a href="https://news.bitcoin.com/enjins-nft-marketplace-efinity-rakes-in-20-million-from-efi-token-sale-on-coinlist/">raised $20 million</a>, Mintable <a href="https://news.bitcoin.com/nft-marketplace-backed-mark-cuban-raises-13-million-series-a/">raised $13 million</a> in a Series A, and there&#x2019;s a slew of other NFT market competitors on the horizon.&#13;<br />
+&#13;<br />
+<em><strong>What do you think about Opensea&#x2019;s global trade volume and the NFT hype? Let us know what you think about this subject in the comments section below. </strong></em></p>
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/opensea.jpg</url><width>760</width><height>428</height></post-thumbnail><barker_title><![CDATA[Opensea’s #NFT trade volume competitors, in terms of 30-day stats, include Axie Infinity ($870M), Cryptopunks ($340M), NBA Top Shot ($23.56M), and Rarible ($18.68M).]]></barker_title><late_barker_title><![CDATA[Opensea’s #NFT trade volume competitors, in terms of 30-day stats, include Axie Infinity ($870M), Cryptopunks ($340M), NBA Top Shot ($23.56M), and Rarible ($18.68M).]]></late_barker_title>	</item>
+		<item>
+		<title>SEC Chairman: Cryptocurrency Won&#8217;t Reach Its Potential if It Tries to Stay Outside Our Laws</title>
+		<link>https://news.bitcoin.com/sec-chairman-cryptocurrency-potential-outside-our-laws/</link>
+		
+		<dc:creator><![CDATA[Kevin Helms]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2021 02:30:17 +0000</pubDate>
+				<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[crypto laws]]></category>
+		<category><![CDATA[Crypto regulation]]></category>
+		<category><![CDATA[Cryptocurrency regulation]]></category>
+		<category><![CDATA[Gary Gensler]]></category>
+		<category><![CDATA[gary gensler crypto]]></category>
+		<category><![CDATA[sec chairman]]></category>
+		<category><![CDATA[sec crypto]]></category>
+		<category><![CDATA[senator elizabeth warren]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481712&#038;preview=true&#038;preview_id=481712</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/gensler-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="SEC Chairman: Cryptocurrency Won&#039;t Reach Its Potential if It Tries to Stay Outside Our Laws" loading="lazy" style="float:left; margin:0 15px 15px 0;" />The chairman of the U.S. Securities and Exchange Commission (SEC), Gary Gensler, says that cryptocurrency needs regulation and it will not reach its potential &#x201C;if it tries to stay outside of our laws.&#x201D;&#13; Crypto Needs Regulation to Realize Full Potential, Says SEC Chairman &#13; SEC Chairman Gary Gensler talked about cryptocurrency regulation on Fox Business [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/gensler-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="SEC Chairman: Cryptocurrency Won&#039;t Reach Its Potential if It Tries to Stay Outside Our Laws" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>The chairman of the U.S. Securities and Exchange Commission (SEC), Gary Gensler, says that cryptocurrency needs regulation and it will not reach its potential &#x201C;if it tries to stay outside of our laws.&#x201D;</strong>&#13;</p>
+<h2>Crypto Needs Regulation to Realize Full Potential, Says SEC Chairman</h2>
+<p>&#13;<br />
+SEC Chairman Gary Gensler talked about cryptocurrency regulation on Fox Business Thursday. Emphasizing that the SEC is focusing on investor protection, he said, &#x201C;We are neutral about technology, bitcoin, and the other crypto tokens.&#x201D; However, the chairman clarified that the SEC is &#x201C;not neutral about investor protection.&#x201D;&#13;<br />
+&#13;<br />
+He added that any platforms offering securities must be registered with the SEC, noting that many of the so-called decentralized finance (defi) platforms &#x201C;actually have a lot of centralization&#x201D; and they need to be registered with the SEC.&#13;<br />
+&#13;<br />
+Gensler said:&#13;</p>
+<blockquote><p>This [cryptocurrency] field is not going to reach any of its potential if it tries to stay outside of our laws.</p></blockquote>
+<p>&#13;<br />
+He elaborated that these laws include money laundering laws, tax compliance laws, and &#x201C;what we focus on at the SEC &#x2014; investor protection.&#x201D;&#13;<br />
+&#13;<br />
+<!-- growjs zone placement 31 --> <ins> <ins class="growjs-placement"></ins> <script type="text/javascript"> if (!window.GrowJs) { (function () { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = 'https://bitcoinads.growadvertising.com/adserve/app'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); } </script> <script type="text/javascript"> var GrowJs = GrowJs || {}; GrowJs.ads = GrowJs.ads || []; GrowJs.ads.push({ node: document.currentScript.parentElement, handler: function (node) { var banner = GrowJs.createBanner(node, 31, [300, 250], null, []); GrowJs.showBanner(banner.index); } }); </script> </ins> <!-- end of growjs zone placement --> &#13;<br />
+&#13;<br />
+The SEC chairman called cryptocurrency and Bitcoin &#x201C;innovative technologies.&#x201D; He <a href="https://news.bitcoin.com/sec-chairman-satoshi-nakamotos-innovation-real-crypto-rules-clear/">recently</a> said that Satoshi &#x201C;Nakamoto&#x2019;s innovation is real&#x201D; and &#x201C;it has been and could continue to be a catalyst for change in the fields of finance and money.&#x201D;&#13;<br />
+&#13;<br />
+However, Gensler repeatedly said that crypto exchanges need more <a href="https://news.bitcoin.com/sec-chair-gensler-cryptocurrency-exchanges-more-regulation-congress/">regulation</a>. He recently told Senator Elizabeth Warren that more congressional authorities are needed to oversee the crypto sector, <a href="https://news.bitcoin.com/sec-chair-senator-legislative-priority-crypto-trading-lending-defi-platforms/">noting</a> that in his view, &#x201C;the legislative priority should center on crypto trading, lending, and Defi platforms.&#x201D;&#13;<br />
+&#13;<br />
+<em><strong>Do you agree with Gary Gensler? Let us know in the comments section below.</strong></em></p>
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/gensler-1.jpg</url><width>760</width><height>428</height></post-thumbnail><barker_title><![CDATA[#Crypto "is not going to reach any of its potential if it tries to stay outside of our laws," said SEC chairman. #bitcoin]]></barker_title><late_barker_title><![CDATA[SEC's chairman says #cryptocurrency needs regulation and it will not reach its potential “if it tries to stay outside of our laws.” #bitcoin]]></late_barker_title>	</item>
+		<item>
+		<title>Google Removes 8 Deceptive Cryptocurrency Mining Apps From Play Store — 120 More Fake Crypto Apps Found Online</title>
+		<link>https://news.bitcoin.com/google-removes-8-deceptive-cryptocurrency-mining-apps-play-store-120-fake-crypto-apps/</link>
+		
+		<dc:creator><![CDATA[Kevin Helms]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2021 00:30:12 +0000</pubDate>
+				<category><![CDATA[Mining]]></category>
+		<category><![CDATA[crypto mining]]></category>
+		<category><![CDATA[cryptocurrency mining]]></category>
+		<category><![CDATA[cryptocurrency mining apps]]></category>
+		<category><![CDATA[fake crypto apps]]></category>
+		<category><![CDATA[fake mining apps]]></category>
+		<category><![CDATA[fake mining apps play store]]></category>
+		<category><![CDATA[google fake crypto mining apps]]></category>
+		<category><![CDATA[google play store]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481700&#038;preview=true&#038;preview_id=481700</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/fake-apps.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="120 Fake Cryptocurrency Mining Apps Found Online — Google Removes 8 From Play Store" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Cybersecurity firm Trend Micro has detected over 120 deceptive cryptocurrency mining apps online. Some of them were found in the Google Play Store, which the internet giant promptly removed. However, there are still &#x201C;numerous concerning applications of the same type&#x201D; in the store, and &#x201C;Some of these apps have even been downloaded more than 100,000 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/fake-apps.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="120 Fake Cryptocurrency Mining Apps Found Online — Google Removes 8 From Play Store" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>Cybersecurity firm Trend Micro has detected over 120 deceptive cryptocurrency mining apps online. Some of them were found in the Google Play Store, which the internet giant promptly removed. However, there are still &#x201C;numerous concerning applications of the same type&#x201D; in the store, and &#x201C;Some of these apps have even been downloaded more than 100,000 times.&#x201D;</strong>&#13;</p>
+<h2>Trend Micro Has Detected More Than 120 Deceptive Cryptocurrency Mining Apps</h2>
+<p>&#13;<br />
+Multinational cybersecurity software company Trend Micro published a <a href="https://www.trendmicro.com/en_us/research/21/h/fake-cryptocurrency-mining-apps-trick-victims-into-watching-ads-.html" target="_blank" rel="noopener">report</a> Wednesday warning about deceptive cryptocurrency cloud mining apps that trick victims into watching ads and paying for subscription services. The firm wrote:&#13;</p>
+<blockquote><p>We recently discovered eight deceptive mobile apps that masquerade as cryptocurrency cloud mining applications &#x2026; where users can earn cryptocurrency by investing money into a cloud-mining operation.</p></blockquote>
+<p>&#13;<br />
+The apps&#x2019; names are Bitfunds, Bitcoin Miner, Bitcoin (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>) &#x2013; Pool Mining Cloud Wallet, Crypto Holic, Daily Bitcoin Rewards, Bitcoin 2021, Minebit Pro, and Ethereum (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a>) &#x2013; Pool Mining Cloud.&#13;<br />
+&#13;<br />
+Trend Micro explained that these malicious apps &#x201C;trick victims into watching ads, paying for subscription services that have an average monthly fee of US$15, and paying for increased mining capabilities without getting anything in return.&#x201D;&#13;<br />
+&#13;<br />
+The firm added, &#x201C;We have reported our findings to Google Play, and the apps have been promptly removed from the Play Store.&#x201D;&#13;<br />
+&#13;<br />
+Nonetheless, the cybersecurity firm said that searching the keywords &#x201C;cloud mining&#x201D; on Google Play still yields &#x201C;numerous concerning applications of the same type,&#x201D; adding that &#x201C;Some of these apps have even been downloaded more than 100,000 times.&#x201D;&#13;<br />
+&#13;<br />
+Citing data from the company&#x2019;s Mobile App Reputation Service (MARS), Trend Micro detailed:&#13;</p>
+<blockquote><p>More than 120 fake cryptocurrency mining apps are still available online. These apps, which do not have cryptocurrency mining capabilities and deceive users into watching in-app ads, have affected more than 4,500 users globally from July 2020 to July 2021.</p></blockquote>
+<p>&#13;<br />
+<!-- growjs zone placement 31 --> <ins> <ins class="growjs-placement"></ins> <script type="text/javascript"> if (!window.GrowJs) { (function () { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = 'https://bitcoinads.growadvertising.com/adserve/app'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); } </script> <script type="text/javascript"> var GrowJs = GrowJs || {}; GrowJs.ads = GrowJs.ads || []; GrowJs.ads.push({ node: document.currentScript.parentElement, handler: function (node) { var banner = GrowJs.createBanner(node, 31, [300, 250], null, []); GrowJs.showBanner(banner.index); } }); </script> </ins> <!-- end of growjs zone placement --> &#13;<br />
+&#13;<br />
+&#x201C;Our investigation also found that some of these fake cryptomining applications prompted its users to click on ads instead of prodding them to pay for increased computing power,&#x201D; the firm detailed.&#13;<br />
+&#13;<br />
+Some apps, such as Bitcoin (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>) &#x2013; Pool Mining Cloud Wallet and Bitcoin 2021, contain malicious features with interfaces flooded with ads, the firm described. Users are prompted to click on ads to prove that users are not robots and are informed that they can start mining after viewing video ads within the app. They are also &#x201C;informed to watch in-app video ads to increase mining speed.&#x201D;&#13;<br />
+&#13;<br />
+Some apps require users &#x201C;to invite several friends to download the app to unlock the withdrawal interface,&#x201D; the firm said, adding:&#13;</p>
+<blockquote><p>However, even after users are able to invite friends and unlock the withdrawal interface, they wouldn&#x2019;t be able to withdraw cryptocurrency from the app as it is always in a waiting state.</p></blockquote>
+<p>&#13;<br />
+<em><strong>Have you come across any deceptive cryptocurrency mining apps? Let us know in the comments section below.</strong></em></p>
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/fake-apps.jpg</url><width>760</width><height>428</height></post-thumbnail><barker_title><![CDATA[Cybersecurity firm Trend Micro has detected over 120 deceptive #cryptocurrency mining apps online. Some of them were found in the #Google Play Store. #crypto #mining]]></barker_title><late_barker_title><![CDATA[Google removed 8 deceptive #cryptomining apps from its Play Store but "more than 120 fake #cryptocurrency mining apps are still available online," said the cybersecurity firm.]]></late_barker_title>	</item>
+		<item>
+		<title>Major Soccer Clubs in Europe Make $200 Million With Fan Tokens, Report Reveals</title>
+		<link>https://news.bitcoin.com/major-soccer-clubs-in-europe-make-200-million-with-fan-tokens-report-reveals/</link>
+		
+		<dc:creator><![CDATA[Lubomir Tassev]]></dc:creator>
+		<pubDate>Sun, 22 Aug 2021 22:30:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Advertising]]></category>
+		<category><![CDATA[Arsenal]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Chiliz]]></category>
+		<category><![CDATA[clubs]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Customers]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[fan engagement]]></category>
+		<category><![CDATA[fan influence]]></category>
+		<category><![CDATA[fan tokens]]></category>
+		<category><![CDATA[fans]]></category>
+		<category><![CDATA[football]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Investments]]></category>
+		<category><![CDATA[Italy]]></category>
+		<category><![CDATA[Juventus]]></category>
+		<category><![CDATA[lionel messi]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[pandemic]]></category>
+		<category><![CDATA[Prices]]></category>
+		<category><![CDATA[psg]]></category>
+		<category><![CDATA[revenue source]]></category>
+		<category><![CDATA[revenues]]></category>
+		<category><![CDATA[Rewards]]></category>
+		<category><![CDATA[soccer]]></category>
+		<category><![CDATA[Socios]]></category>
+		<category><![CDATA[Socios.com]]></category>
+		<category><![CDATA[Spain]]></category>
+		<category><![CDATA[teams]]></category>
+		<category><![CDATA[Tokens]]></category>
+		<category><![CDATA[U.K.]]></category>
+		<category><![CDATA[users]]></category>
+		<category><![CDATA[values]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481666</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/stadium.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Major Soccer Clubs in Europe Make $200 Million With Fan Tokens, Report Reveals" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Leading European soccer teams have reportedly made millions from the sale of crypto tokens to their supporters around the world. The scheme aimed at increasing fan engagement has been praised as an alternative revenue source during the pandemic but also criticized as a &#x201C;gateway into speculative cryptocurrency.&#x201D;&#13; 40 Soccer Teams in Fan Token Scheme Criticized [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/stadium.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Major Soccer Clubs in Europe Make $200 Million With Fan Tokens, Report Reveals" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>Leading European soccer teams have reportedly made millions from the sale of crypto tokens to their supporters around the world. The scheme aimed at increasing fan engagement has been praised as an alternative revenue source during the pandemic but also criticized as a &#x201C;gateway into speculative cryptocurrency.&#x201D;</strong>&#13;</p>
+<h2>40 Soccer Teams in Fan Token Scheme Criticized by Supporters Groups</h2>
+<p>&#13;<br />
+Europe&#x2019;s top soccer clubs have made &#xA3;150 million (over $204 million) from sales on the Socios.com platform where they can offer special fan tokens, the Telegraph reported. Arsenal, Barcelona, Juventus, and PSG are among over 40 of the Old Continent&#x2019;s biggest football teams that are already working with the &#x201C;fan influence and rewards&#x201D; scheme.&#13;<br />
+&#13;<br />
+Since 2019, close to a million users have signed up for <a href="https://www.socios.com/" target="_blank" rel="noopener">Socios</a> which is mostly targeting young, online-oriented fans. They can buy the tokens launched by their favorite clubs and receive voting rights on certain club decisions such as which songs to be added to the stadium play-lists. Acquiring more credit entitles them to unique opportunities like playing on the team&#x2019;s pitch.&#13;<br />
+&#13;<br />
+The scheme has been criticized by supporters groups that have pointed out that fans are taking risks with their involvement in &#x201C;unregulated currency markets.&#x201D; The U.K.&#x2019;s Football Supporters&#x2019; Association claims it has received complaints from multiple <a href="https://en.wikipedia.org/wiki/Premier_League" target="_blank" rel="noopener">Premier League</a> fan groups. Adam Willerton, secretary of Leeds United Supporters&#x2019; Trust stated:&#13;</p>
+<blockquote><p>Our worry is for vulnerable or less technologically adept people coming into this ecosystem of cryptocurrency.</p></blockquote>
+<p>&#13;<br />
+<a href="https://news.bitcoin.com/soccer-superstar-lionel-messi-gets-part-of-his-contract-paid-in-cryptocurrency/">Lionel Messi</a>&#x2019;s recent move to PSG, for example, caused sharp fluctuations in the value of the club&#x2019;s token, prompting the Clean Up Gambling group to describe the system as a &#x201C;gateway into speculative cryptocurrency.&#x201D; The price of the $PSG token spiked in the days before the football star&#x2019;s transfer was confirmed but has since fallen again.&#13;<br />
+&#13;<br />
+<!-- growjs zone placement 31 --> <ins> <ins class="growjs-placement"></ins> <script type="text/javascript"> if (!window.GrowJs) { (function () { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = 'https://bitcoinads.growadvertising.com/adserve/app'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); } </script> <script type="text/javascript"> var GrowJs = GrowJs || {}; GrowJs.ads = GrowJs.ads || []; GrowJs.ads.push({ node: document.currentScript.parentElement, handler: function (node) { var banner = GrowJs.createBanner(node, 31, [300, 250], null, []); GrowJs.showBanner(banner.index); } }); </script> </ins> <!-- end of growjs zone placement --> &#13;</p>
+<h2>Four Clubs Pocket &#xA3;20 Million Each, Socios Founder Defends Revenue Source</h2>
+<p>&#13;<br />
+Other concerns stem from the way such tokens are being marketed. The newspaper quotes Martin Calladine, author of The Ugly Game, who described the advertising methods as &#x201C;completely misleading.&#x201D; He referred to a pre-sale advertising by Socios at Arsenal allegedly suggesting that acquiring the tokens is &#x201C;like buying foreign currency for a holiday.&#x201D; Britain&#x2019;s Advertising Standards Authority has invited worried fans to reach out.&#13;<br />
+&#13;<br />
+However, Socios founder Alexandre Dreyfus has rejected claims that fans could lose large amounts of money because of the tokens&#x2019; fluctuating values and dismissed skepticism regarding the scheme. He stressed that &#x201C;blockchain is transparent &#x2013; that&#x2019;s the beauty of it, everything is public.&#x201D; Dreyfus also revealed that four of the participating clubs have already made almost &#xA3;20 million ($27 million) each in the past 12 months and emphasized:&#13;</p>
+<blockquote><p>That&#x2019;s a significant revenue during Covid-19.</p></blockquote>
+<p>&#13;<br />
+To mint the branded fan tokens, Socios relies on the Chiliz blockchain fueled by its $CHZ currency. The French entrepreneur says he has simply found &#x201C;a new way to generate revenue&#x201D; from a fan base that is different from the traditional matchday ticket-holder. The U.K. market currently accounts for only 1.5% of Socios&#x2019;s total revenue and customers, the report detailed. The platform has gained much more popularity in South-East Asia, Brazil and Turkey.&#13;<br />
+&#13;<br />
+<strong><em>What&#x2019;s your opinion about fan tokens in soccer? Share your thoughts on the subject in the comments section below. </em></strong></p>
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/stadium.jpg</url><width>760</width><height>428</height></post-thumbnail><barker_title><![CDATA[Europe’s top soccer teams reportedly make over $200 million from fan tokens.]]></barker_title><late_barker_title><![CDATA[Supporters groups criticize soccer teams’ involvement in fan token sales. ]]></late_barker_title>	</item>
+		<item>
+		<title>These Digital Images Are Worth More Than Most Homes — Over $220 Million Worth of NFTs Sold Last Week</title>
+		<link>https://news.bitcoin.com/these-digital-images-are-worth-more-than-most-homes-over-220-million-worth-of-nfts-sold-last-week/</link>
+		
+		<dc:creator><![CDATA[Jamie Redman]]></dc:creator>
+		<pubDate>Sun, 22 Aug 2021 20:30:37 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Art Blocks Project]]></category>
+		<category><![CDATA[Bastard Gan Punks V2]]></category>
+		<category><![CDATA[BAYC]]></category>
+		<category><![CDATA[Blockchain Art]]></category>
+		<category><![CDATA[Bored Apes]]></category>
+		<category><![CDATA[Cool Cats]]></category>
+		<category><![CDATA[cryptopunks]]></category>
+		<category><![CDATA[Cyberkongz]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Deadheads]]></category>
+		<category><![CDATA[Deafbeef]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Etherrocks]]></category>
+		<category><![CDATA[Goatz]]></category>
+		<category><![CDATA[Hashmasks]]></category>
+		<category><![CDATA[Meebits]]></category>
+		<category><![CDATA[nft]]></category>
+		<category><![CDATA[NFT Boxes]]></category>
+		<category><![CDATA[NFT sales]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[Non-fungible tokens]]></category>
+		<category><![CDATA[nonfungible.com]]></category>
+		<category><![CDATA[Rock JPEG]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[Veefriends]]></category>
+		<category><![CDATA[Weekly NFT Sales]]></category>
+		<category><![CDATA[Zed Run]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481672</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/image-2021-08-22-164208.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="These Digital Images Are Worth More Than Most Homes — Over $220 Million Worth of NFTs Sold Last Week" loading="lazy" style="float:left; margin:0 15px 15px 0;" />On Sunday, August 22, data shows that during the last week, $221 million worth of non-fungible tokens (NFTs) across 55,252 sales. This weekend, the NFT project Art Blocks is the top-selling NFT project with $79.5 million in weekly sales followed by the Bored Ape Yacht Club (BAYC) with $30.4 million in NFT sales.&#13; Art Blocks [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/image-2021-08-22-164208.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="These Digital Images Are Worth More Than Most Homes — Over $220 Million Worth of NFTs Sold Last Week" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>On Sunday, August 22, data shows that during the last week, $221 million worth of non-fungible tokens (NFTs) across 55,252 sales. This weekend, the NFT project Art Blocks is the top-selling NFT project with $79.5 million in weekly sales followed by the Bored Ape Yacht Club (BAYC) with $30.4 million in NFT sales.</strong>&#13;</p>
+<h2>Art Blocks Captures Over $79 Million in NFT Sales This Past Week</h2>
+<p>&#13;<br />
+While the crypto economy and bitcoin (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>) prices have seen a revival, non-fungible token assets sold during the downturn, and continue to sell in the millions every day. For instance, the NFT project called Etherrocks has been <a href="https://twitter.com/etherrockprice/status/1429366865512460292?s=20">selling rock JPEGs</a> for hundreds of thousands of dollars.&#13;<br />
+&#13;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">EtherRock 87 purchased for &#x39E;187 Ether<br />($611,170.23)</p>
+<p>9 mins ago (Aug-22-2021 06:39:03 AM +UTC)</p>
+<p>Txn: <a href="https://t.co/0bICy16wX1">https://t.co/0bICy16wX1</a><a href="https://twitter.com/hashtag/EtherRock?src=hash&ref_src=twsrc%5Etfw">#EtherRock</a> <a href="https://twitter.com/hashtag/EtherRocks?src=hash&ref_src=twsrc%5Etfw">#EtherRocks</a> <a href="https://t.co/muW95pOfz5">pic.twitter.com/muW95pOfz5</a></p>
+<p>&#x2014; EtherRock Price (@etherrockprice) <a href="https://twitter.com/etherrockprice/status/1429335238182785026?ref_src=twsrc%5Etfw">August 22, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>&#13;<br />
+&#13;<br />
+Bitcoin.com News has also been reporting on NFT projects like <a href="https://news.bitcoin.com/cryptopunk-owner-hopes-to-sell-punk-for-91-million-pixelated-nft-punks-outshine-the-competition/">Cryptopunks</a> and <a href="https://news.bitcoin.com/troop-of-bored-ape-nfts-rises-above-the-competition-bayc-donates-200k-in-eth-to-orangutan-outreach/">Bored Ape Yacht Club</a> (BAYC). While BAYC sold $30.4 million in NFTs during the last seven days, Cryptopunks pulled in around $28.1 million.&#13;<br />
+&#13;<br />
+<figure id="attachment_481678" aria-describedby="caption-attachment-481678" style="width: 1140px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-481678 size-full" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/95dcce70-artblocks-art.png" alt="" width="1140" height="486" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/08/95dcce70-artblocks-art-300x128.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/08/95dcce70-artblocks-art-1024x437.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/08/95dcce70-artblocks-art-768x327.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/08/95dcce70-artblocks-art.png 1140w" sizes="(max-width: 1140px) 100vw, 1140px"><figcaption id="caption-attachment-481678" class="wp-caption-text">Art Blocks is the top NFT project in terms of sales during the last seven days according to nonfungible.com market stats.</figcaption></figure>&#13;<br />
+&#13;<br />
+The <a href="https://nonfungible.com/market/history">top contender</a> during the trailing seven-day period this week belongs to the <a href="https://artblocks.io">Art Blocks</a> project which has seen $79.5 million across <a href="https://nonfungible.com/market/history">10,143 sales</a>. During the last seven days, Art Blocks have sold for 650 ether ($1.8M), 420 ether ($1.1M), and 350 ether ($987K) per NFT.&#13;<br />
+&#13;<br />
+BAYC&#x2019;s $30.4 million was across 808 sales during the trailing seven-day period. The BAYC project has approximately <a href="https://dune.xyz/danner_eth/NFT-Comparison">5,290 unique addresses</a> holding BAYC NFTs and one wallet has 108 BAYCs out of the collection of 10,000.&#13;<br />
+&#13;<br />
+<!-- growjs zone placement 31 --> <ins> <ins class="growjs-placement"></ins> <script type="text/javascript"> if (!window.GrowJs) { (function () { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = 'https://bitcoinads.growadvertising.com/adserve/app'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); } </script> <script type="text/javascript"> var GrowJs = GrowJs || {}; GrowJs.ads = GrowJs.ads || []; GrowJs.ads.push({ node: document.currentScript.parentElement, handler: function (node) { var banner = GrowJs.createBanner(node, 31, [300, 250], null, []); GrowJs.showBanner(banner.index); } }); </script> </ins> <!-- end of growjs zone placement --> &#13;</p>
+<h2>Meebits, Veefriends, Deafbeef, Cyberkongz, Hashmasks, Goatz, Cool Cats, NFT Boxes</h2>
+<p>&#13;<br />
+A number of other projects have also been moving up the sales ladder following the trends of Art Blocks, BAYC, Cryptopunks, and <a href="https://etherrock.com">Etherrocks</a>. <a href="https://meebits.larvalabs.com">Meebits</a> has seen $2.4 million in sales this week across 203 sales.&#13;<br />
+&#13;<br />
+<figure id="attachment_481684" aria-describedby="caption-attachment-481684" style="width: 1280px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-481684 size-full" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/meebitssdd.jpg" alt="" width="1280" height="350"><figcaption id="caption-attachment-481684" class="wp-caption-text">Meebits project &#x2013; Data via nonfungible.com</figcaption></figure>&#13;<br />
+&#13;<br />
+There are 5,009 unique addresses that hold at least one Meebit NFT and one entity holds 346 Meebits. The most expensive Meebits sale last week was for $98,661 for Meebit #13523.&#13;<br />
+&#13;<br />
+<figure id="attachment_481682" aria-describedby="caption-attachment-481682" style="width: 1280px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-481682 size-full" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/ffffffveebits.jpg" alt="" width="1280" height="350"><figcaption id="caption-attachment-481682" class="wp-caption-text">Veefriends project &#x2013; Data via nonfungible.com</figcaption></figure>&#13;<br />
+&#13;<br />
+Another NFT project that&#x2019;s gained notoriety is <a href="https://veefriends.com">Veefriends</a> which saw <a href="https://nonfungible.com/market/history">$1.8 million</a> sold in seven days across 73 unique sales. 4,608 unique addresses hold at least one Veefriend NFT and a single entity holds 1,033 Veefriend NFTs at the time of writing.&#13;<br />
+&#13;<br />
+<figure id="attachment_481685" aria-describedby="caption-attachment-481685" style="width: 1280px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-481685 size-full" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/deafbeef.jpg" alt="" width="1280" height="350"><figcaption id="caption-attachment-481685" class="wp-caption-text">Deafbeef project &#x2013; Data via nonfungible.com</figcaption></figure>&#13;<br />
+&#13;<br />
+<a href="https://www.deafbeef.com">Deafbeef</a> did $8.7 million in sales and <a href="https://www.cyberkongz.com">Cyberkongz</a> sold around $7.9 million last week. Some NFT projects which used to be in the top five positions in terms of weekly sales have seen sales plummet. <a href="https://www.thehashmasks.com">Hashmasks</a> used to be a top contender, however, the Hashmasks project only saw $749K in sales last week.&#13;<br />
+&#13;<br />
+<figure id="attachment_481683" aria-describedby="caption-attachment-481683" style="width: 1280px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-481683 size-full" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/kongz.jpg" alt="" width="1280" height="350"><figcaption id="caption-attachment-481683" class="wp-caption-text">Cyberkongz project &#x2013; Data via nonfungible.com</figcaption></figure>&#13;<br />
+&#13;<br />
+There are 4,715 MASK owners collecting Hashmasks, and one entity owns 829 MASKs while the typical Hashmask owner owns around two on average. Many other NFT projects are moving up the ladder while older collections are getting less visibility.&#13;<br />
+&#13;<br />
+Collections like <a href="https://bastardganpunks.club">Bastard Gan Punks V2</a>, <a href="https://zed.run">Zed Run</a>, <a href="https://maisondegoat.com/the-forge">Goatz</a>, <a href="https://www.nftboxes.io">NFT Boxes</a>, <a href="https://deadheads.io">Deadheads</a>, <a href="https://www.coolcatsnft.com">Cool Cats</a>, and more have been building fan bases. Out of the $221 million worth of NFT sales in the last week, Opensea&#x2019;s large marketplace of <a href="https://dune.xyz/rchen8/opensea">253,354 unique users</a>, captured $61.8 million of those sales.&#13;<br />
+&#13;<br />
+<em><strong>What do you think about the NFT images that sell for hundreds of thousands and even millions of dollars? Let us know what you think about these NFT projects in the comments section below.</strong></em></p>
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/image-2021-08-22-164208.jpg</url><width>760</width><height>428</height></post-thumbnail><barker_title><![CDATA[During the last seven days, Art Blocks have sold for 650 ether ($1.8M), 420 ether ($1.1M), and 350 ether ($987K) per #NFT.]]></barker_title><late_barker_title><![CDATA[During the last seven days, Art Blocks have sold for 650 ether ($1.8M), 420 ether ($1.1M), and 350 ether ($987K) per #NFT.]]></late_barker_title>	</item>
+		<item>
+		<title>Crypto Inferno: The Ethereum Network Has Burned Over $230 Million in Ether in 17 Days</title>
+		<link>https://news.bitcoin.com/crypto-inferno-the-ethereum-network-has-burned-over-230-million-in-ether-in-17-days/</link>
+		
+		<dc:creator><![CDATA[Jamie Redman]]></dc:creator>
+		<pubDate>Sun, 22 Aug 2021 18:30:13 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[$230 million burned]]></category>
+		<category><![CDATA[1inch]]></category>
+		<category><![CDATA[73784 ether burned]]></category>
+		<category><![CDATA[axie infinity]]></category>
+		<category><![CDATA[Burn]]></category>
+		<category><![CDATA[Burn Rate]]></category>
+		<category><![CDATA[burning coins]]></category>
+		<category><![CDATA[deflationary]]></category>
+		<category><![CDATA[EIP-1559]]></category>
+		<category><![CDATA[ETH burn]]></category>
+		<category><![CDATA[ETH prices]]></category>
+		<category><![CDATA[Ethereum (ETH)]]></category>
+		<category><![CDATA[Ethereum Burning]]></category>
+		<category><![CDATA[ethereum prices]]></category>
+		<category><![CDATA[Ethereum proponents]]></category>
+		<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Opensea]]></category>
+		<category><![CDATA[Scarce]]></category>
+		<category><![CDATA[Tether]]></category>
+		<category><![CDATA[uniswap]]></category>
+		<category><![CDATA[Value of Coins Burned]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481654</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/crypto-inferno-the-ethereum-network-has-burned-over-230-million-in-ether-in-17-days.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />17 days ago, the Ethereum network successfully implemented the London hard fork upgrade. One specific feature, EIP-1559, has fascinated crypto proponents for quite some time as the upgrade change makes ether scarcer over time. Statistics show that over the course of more than two weeks, the Ethereum network has burned 73,784 ether worth over $230 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/crypto-inferno-the-ethereum-network-has-burned-over-230-million-in-ether-in-17-days.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>17 days ago, the Ethereum network successfully implemented the London hard fork upgrade. One specific feature, EIP-1559, has fascinated crypto proponents for quite some time as the upgrade change makes ether scarcer over time. Statistics show that over the course of more than two weeks, the Ethereum network has burned 73,784 ether worth over $230 million using today&#x2019;s exchange rates.</strong>&#13;</p>
+<h2>73K Ethereum Burned To-Date, Opensea Burns Over 9,000 Ether</h2>
+<p>&#13;<br />
+Data stemming from the <a href="https://dune.xyz/home">Dune Analytics</a>&#x2019; dashboard called &#x201C;Ethereum after 1559&#x201D; indicates that 73,784 <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> has been burned since the London upgrade on August 5. The London hard fork was successful and after it was implemented, Vitalik Buterin <a href="https://news.bitcoin.com/ethereums-vitalik-buterin-says-eip-1559-most-important-part-of-london-network-is-burning-16k-in-eth-per-minute/">said </a>he was &#x201C;confident&#x201D; about the future after London. Buterin also detailed that he believed EIP-1550 was a very important part of the London upgrade.&#13;<br />
+&#13;<br />
+<img loading="lazy" class="aligncenter size-full wp-image-481661" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/burn.jpg" alt="" width="1280" height="300">&#13;<br />
+&#13;<br />
+Well before the London upgrade, the <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> community was ready for the highly-anticipated EIP-1559 improvement. Following the ruleset change, a touch over two weeks later people are still observing how much ether is being burned on a daily basis.&#13;<br />
+&#13;<br />
+The 73,784 <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> burned to-date, is worth approximately $230,611,450 using today&#x2019;s ether exchange rates. While every <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> participant adds to the burn rate, there&#x2019;s a slew of Ethereum-based protocols that burn a lot of <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> by simply operating.&#13;<br />
+&#13;<br />
+<img loading="lazy" class="aligncenter size-full wp-image-481660" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/fddburns.jpg" alt="" width="1280" height="600">&#13;<br />
+&#13;<br />
+Dune Analytics statistics shows that the non-fungible token (NFT) marketplace Opensea is the biggest burner with 9,121 <a href="https://markets.bitcoin.com/crypto/ETH">ether</a> burned to-date. This is followed by projects like Uniswap V2 (5,365 ether), Axie Infinity (4,024 ether), Tether (3,733 ether), and Uniswap V3 (2,236 ether).&#13;<br />
+&#13;<br />
+Other projects and apps like Metamask (1,405 ether), USDC (1,258 ether), and 1inch V3 (991 ether) burn a lot of <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> too. Furthermore, an &#x201C;unknown entity&#x201D; has burned 1,443 ether and holds the sixth position among the top <a href="https://dune.xyz/queries/98266/197451">100 ether burners</a>.&#13;<br />
+&#13;<br />
+<!-- growjs zone placement 31 --> <ins> <ins class="growjs-placement"></ins> <script type="text/javascript"> if (!window.GrowJs) { (function () { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = 'https://bitcoinads.growadvertising.com/adserve/app'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); } </script> <script type="text/javascript"> var GrowJs = GrowJs || {}; GrowJs.ads = GrowJs.ads || []; GrowJs.ads.push({ node: document.currentScript.parentElement, handler: function (node) { var banner = GrowJs.createBanner(node, 31, [300, 250], null, []); GrowJs.showBanner(banner.index); } }); </script> </ins> <!-- end of growjs zone placement --> &#13;</p>
+<h2>Currently, Over $12K in Value Is Being Burned Every Minute on the Ethereum Chain</h2>
+<p>&#13;<br />
+On Sunday, ether has been swapping for prices between $3,150 to $3,250 during the last 24 hours. Ethereum has gained a whopping 56.4% in the last month and year-to-date statistics show ether is up 719%.&#13;<br />
+&#13;<br />
+The crypto asset is between 25-30% lower than the digital currency&#x2019;s all-time high of $4,356 per unit on May 12, 2021. Ether&#x2019;s market capitalization on Sunday is $373 billion and it captures 17.5% of the $2.13 trillion crypto economy. The <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> burn rate sees fluctuations, but at the time of writing, the chain is seeing a <a href="https://etherchain.org/burn">3.76 ETH per minute</a> burn rate every hour.&#13;<br />
+&#13;<br />
+Using current exchange rates, that&#x2019;s $12,158.97 worth of <a href="https://markets.bitcoin.com/crypto/ETH">ethereum (ETH)</a> destroyed every minute.&#13;<br />
+&#13;<br />
+<em><strong>What do you think about the 73,784 ether burned since August 5, 2021? Let us know what you think about this subject in the comments section below. </strong></em></p>
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/crypto-inferno-the-ethereum-network-has-burned-over-230-million-in-ether-in-17-days.jpg</url><width>760</width><height>428</height></post-thumbnail><barker_title><![CDATA[The 73,784 #Ethereum burned to-date, is worth approximately $230,611,450 using today’s ether exchange rates.]]></barker_title><late_barker_title><![CDATA[The 73,784 #Ethereum burned to-date, is worth approximately $230,611,450 using today’s ether exchange rates.]]></late_barker_title>	</item>
+		<item>
+		<title>Spanish Police Raid Illegal Cryptocurrency Mining Farm in Spain</title>
+		<link>https://news.bitcoin.com/spanish-police-raid-illegal-cryptocurrency-mining-farm-in-spain/</link>
+		
+		<dc:creator><![CDATA[Sergio Goschenko]]></dc:creator>
+		<pubDate>Sun, 22 Aug 2021 16:30:04 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[illegal]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[national police]]></category>
+		<category><![CDATA[Raid]]></category>
+		<category><![CDATA[Spain]]></category>
+		<category><![CDATA[toledo]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=481603</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_2004323786.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="spain" loading="lazy" style="float:left; margin:0 15px 15px 0;" />The National Spanish Police raided and dismantled an illegal cryptocurrency farm that operated in Spain in the region of Toledo. The farm operated with an illegal connection to the power grid, defrauding thousands of euros from the power company. The farm had more than 100 mining machines and sophisticated climatization equipment. &#13; Illegal Cryptocurrency Farm [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_2004323786.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="spain" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>The National Spanish Police raided and dismantled an illegal cryptocurrency farm that operated in Spain in the region of Toledo. The farm operated with an illegal connection to the power grid, defrauding thousands of euros from the power company. The farm had more than 100 mining machines and sophisticated climatization equipment.</strong></p>&#13;
+<h2 style="text-align: center;">Illegal Cryptocurrency Farm Raided in Spain</h2>&#13;
+<p>The National Police <a href="https://www.eleconomista.es/economia/noticias/11364347/08/21/La-Policia-desmantela-una-granja-ilegal-de-minado-de-criptomonedas-en-un-chalet-de-Toledo-.html" target="_blank" rel="noopener">raided</a> and dismantled a cryptocurrency mining farm that operated through an illegal connection to the power grid in the region of Toledo, in Spain. A video <a href="https://twitter.com/policia/status/1428629123484688385?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1428629123484688385%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.eleconomista.es%2Feconomia%2Fnoticias%2F11364347%2F08%2F21%2FLa-Policia-desmantela-una-granja-ilegal-de-minado-de-criptomonedas-en-un-chalet-de-Toledo-.html" target="_blank" rel="noopener">shared</a> on social media shows the procedure that agents did to gain entrance to the farm, breaking the front door and entering the premises of the house located in the region of Toledo. Agents were alerted about the occurrence due to the unusual amount of heat that was emitted by the house associated with very high energy consumption.</p>&#13;
+<p>A woman was arrested on the alleged charges of fraud to the power utility company. cryptocurrency mining is a perfectly legal occupation in the country, as long as miners pay for their power expenses. The farm had more than 100 miners operating, and an elaborated ventilation and refrigeration system, according to police reports. The woman had to connect illegally to the grid to enjoy profits since cryptocurrency mining is an energy-intensive task.</p>&#13;
+<p>The investigation remains open to fully clarify the facts behind this crime, and to find if there is a money laundering connection. However, local media <a href="https://www.elmundo.es/tecnologia/2021/08/20/611f78a4e4d4d864578b45d1.html" target="_blank" rel="noopener">reports</a> that the search party was expecting something more common in the area: a cannabis farm.</p>&#13;
+<!-- growjs zone placement 31 --> <ins> <ins class="growjs-placement"></ins> <script type="text/javascript"> if (!window.GrowJs) { (function () { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = 'https://bitcoinads.growadvertising.com/adserve/app'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); } </script> <script type="text/javascript"> var GrowJs = GrowJs || {}; GrowJs.ads = GrowJs.ads || []; GrowJs.ads.push({ node: document.currentScript.parentElement, handler: function (node) { var banner = GrowJs.createBanner(node, 31, [300, 250], null, []); GrowJs.showBanner(banner.index); } }); </script> </ins> <!-- end of growjs zone placement --> &#13;
+<h2 style="text-align: center;">Not the First Time</h2>&#13;
+<p>This is not the first time that a cryptocurrency farm is confused with a cannabis farm. On May 28, a unit of the UK police <a href="https://news.bitcoin.com/uk-police-raid-alleged-cannabis-farm-finds-bitcoin-mining-facility-stealing-power/" target="_blank" rel="noopener">raided</a> what they thought was a cannabis farm, only to find a big cryptocurrency mining operation. The intelligence behind the raid indicated there were signs associated with classic cannabis farms as the heat print detected and the high transit of people associated with the property.</p>&#13;
+<p>In that case, the farm was also stealing power from the power grid, stealing thousands of pounds from the utility company in the country. This kind of theft is likely to keep happening as long as the Bitcoin mining difficulty keeps growing and more equipment gets outdated to keep maintaining a decent level of profit for miners.</p>&#13;
+<p>This doesn&#x2019;t constitute a major crime in Spain, and it is charged with a penalty fee of 12 months of payment maximum.</p>&#13;
+<p><em><strong>What do you think of the raid of an illegal cryptocurrency farm in Spain? Tell us in the comment section below.</strong></em></p>&#13;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+					
+		
+		
+		<post-thumbnail><url>https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_2004323786.jpg</url><width>760</width><height>428</height></post-thumbnail><barker_title><![CDATA[The National Police raided and dismantled a #cryptocurrency mining farm that operated through an illegal connection to the power grid in the region of Toledo, in Spain.]]></barker_title><late_barker_title><![CDATA[Local media reports that the search party was expecting something more common in the area: a cannabis farm.]]></late_barker_title>	</item>
+	</channel>
+</rss>

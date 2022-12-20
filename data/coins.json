@@ -1,0 +1,16 @@
+{
+    "coins": [
+        {
+            "id": 0,
+            "title": "BCH",
+            "image": "/images/bch.png",
+            "cls": "bch"
+        },
+        {
+            "id": 1,
+            "title": "BTC",
+            "image": "/images/btc.png",
+            "cls": "btc"
+        }
+    ]
+}
