@@ -43,3 +43,4 @@ yarn start
 ```
 
 Then the production build is generated in the .next/server/pages folder. This folder can be used with any server like apache and nginx.
+
